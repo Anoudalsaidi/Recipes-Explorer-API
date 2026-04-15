@@ -3,3 +3,4 @@ simple web app that fetches and displays recipes using an external API with dyna
 
 add UI styling with Bootstrap
 integrate recipes API
+improve code structure
